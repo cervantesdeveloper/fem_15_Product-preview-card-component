@@ -1,0 +1,52 @@
+/* *****Custom Properties ***** */
+:root{
+    /* ==Colors == */
+    --cream: rgb(242, 235, 227);
+    --green-dark: rgb(60, 128, 103);
+    --blue-dark: rgb(28, 35, 43);
+    --grey: rgb(108, 114, 137);
+    --white: rgb(255, 255, 255);
+
+    /* == Fonts ==*/
+    --font-headline: 'Fraunces', serif;
+    --font-body: 'Montserrat', sans-serif;;
+}
+
+/* ******Reset ****** */
+html{
+    box-sizing: border-box;
+    font-family: var(--font-body);
+    font-size: 16px;
+}
+
+*,
+*::before,
+*::after{
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+/* *****Components***** */
+.footer{
+    display: block;
+    width: 100%;
+    min-height: 3rem;
+    font-size: 1rem;
+    text-align: center;
+    line-height: 1.5;
+    border-top: .5px solid var(--grey);
+}
+/* *****Utilities***** */
+/* *****Site styles***** */
+
+
