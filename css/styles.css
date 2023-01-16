@@ -113,6 +113,7 @@ p{
     background-color: var(--white);
     border-radius: .5rem;
     overflow: hidden;
+    margin-bottom: 1.75rem;
 }
 
 .card__image{
