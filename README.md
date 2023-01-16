@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/cervantesdeveloper/fem_15_Product-preview-card-component.git](solution)
-- Live Site URL: [https://fem-15-product-preview-component.netlify.app/](Live SIte)
+- Solution URL: [solution] (https://github.com/cervantesdeveloper/fem_15_Product-preview-card-component)
+- Live Site URL: [Site] (https://fem-15-product-preview-component.netlify.app/)
 
 ## My process
 
